@@ -1,0 +1,6 @@
+Game concept 
+
+Basketball shoot your self.
+
+A basketball tries to shoot itself to the rim.
+it needs to shoot to the rim while trying to manuvour with the obstacles in the map
